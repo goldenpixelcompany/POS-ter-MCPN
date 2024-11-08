@@ -1,7 +1,7 @@
 # POS-ter (MCPN)
-POS-ter pour le méridien Culture et Pratique Numérique (MCPN) de L'école des Arts décoratifs programmé sur Processing 4.
+POS-ter pour le méridien des cultures et pratiques numériques (MCPN) de L'école des Arts décoratifs programmé sur Processing 4.
 
-Projet d'une affiche imprimée et d'un post pour les réseaux sociaux (communication digitale) pour le cycle de conférence organisé par le Méridien du numérique de l'école des Arts décoratifs de Paris : 
+Projet d'une affiche imprimée et d'un post pour les réseaux sociaux (communication digitale) pour le cycle de conférence organisé par le MCPN de l'école des Arts décoratifs de Paris : 
 
 **Cette affiche est générée par du code et se présente sur deux formats d’image : imprimée et animée. Chaque fois que le programme est lancé, une nouvelle affiche se produit. Chaque tirage comporte des informations, des couleurs, une composition, et une vitesse d’animation qui lui sont propre. Il est donc à l’artiste-utilisateur d’ajuster son désir et de capturer la meilleure version de l’affiche selon-lui.**
 
